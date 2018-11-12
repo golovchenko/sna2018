@@ -31,8 +31,8 @@ y_y_edge <- as.data.frame(g.edge)
 ###########################################################################
 install.packages("tuber")
 library("tuber") #YouTube API V3.
-yt_oauth(app_id = "751322083724-f0j17h4umtcnvqnhe907lp0ger2s9jbl.apps.googleusercontent.com",
-         app_secret = "Vxg9be1nV4105HSfPG-r4-CE", token = '')
+yt_oauth(app_id = "INSERT YOUR APP ID",
+         app_secret = "INSERT YOUR APP SECRET", token = '')
 
 ## download video details 
 pepe_video <- get_video_details("7Q5HK9HsBSU")
