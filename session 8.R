@@ -1,6 +1,6 @@
 
 ### setting the working directory
-setwd("C:/Users/htw606/Documents/2018 09 08 Universitet/Disinfo/Logistics/Own course/Courses 2018 info/SNA/scripts")
+setwd("SET/YOUR/WORKING/DIRECTORY/PATH")
 
 ### loading packages
 library(dplyr)
