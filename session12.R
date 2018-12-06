@@ -10,7 +10,7 @@ library(igraph)
 library(ggplot2)
 
 #########################################################################
-#################################k-cores ################################
+#################################communities ################################
 #########################################################################
 
 ### mockup data set and most of the code from https://stackoverflow.com/questions/36276433/igraph-k-core-with-graph-coreness-underestimating-some-cores
